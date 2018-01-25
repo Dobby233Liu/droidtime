@@ -1,4 +1,4 @@
-package com.mycompany.myapp;
+package com.github.dobby233liu.droidtime;
 
 import android.app.*;
 import android.os.*;
