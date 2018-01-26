@@ -31,8 +31,7 @@ public class MainActivity extends Activity
 	btnExit.setOnClickListener(new View.OnClickListener(){
 	    @Override
 		public void onClick(View p1){
-			finishActivity(1);
-			System.exit(0);
+			MainActivity.this.finish();
 		}
 	});
     }
