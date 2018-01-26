@@ -4,7 +4,7 @@ A simple time app. / 一个简单的时钟软件
 
 Update Log: / 更新日志：
 
-Made a revision: [`7a7afe5`](/commit/7a7afe5faf89d51e0bd77d6c6f9057a0a5a157a1) / 更改：[`7a7afe5`](/commit/7a7afe5faf89d51e0bd77d6c6f9057a0a5a157a1)
+Made a revision: [`7a7afe5`](/../../commit/7a7afe5faf89d51e0bd77d6c6f9057a0a5a157a1) / 更改：[`7a7afe5`](/../../commit/7a7afe5faf89d51e0bd77d6c6f9057a0a5a157a1)
 
 EDIT: Also edited up the build script / 并修改了编译脚本
 
